@@ -1,0 +1,7 @@
+[package]
+name = "hacker_rank"
+version = "0.1.0"
+
+[[bin]]
+name = "sales_by_match"
+path = "src/sales_by_match.rs"
