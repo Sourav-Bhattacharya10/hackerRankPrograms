@@ -3,5 +3,5 @@ name = "hacker_rank"
 version = "0.1.0"
 
 [[bin]]
-name = "counting_valleys"
-path = "src/counting_valleys.rs"
+name = "jumping_on_clouds"
+path = "src/jumping_on_clouds.rs"
